@@ -5,7 +5,7 @@ Terraform-Assignment-3
 
 **Step 1:** Destroy the previous assignment resources using the command: terraform destroy
 
-**Step 2:** Assignment 1 Resources will be successfully deleted.
+**Step 2:** Assignment 2 Resources will be successfully deleted.
 
 **Step 3:** Create a "main.tf" file, and paste the script code here.
 
